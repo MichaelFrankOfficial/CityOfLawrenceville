@@ -1,0 +1,11 @@
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 90px;
+}
+.artBackground{
+    background-image: url("images/artBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

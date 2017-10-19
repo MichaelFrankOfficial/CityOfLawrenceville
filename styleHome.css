@@ -1,0 +1,11 @@
+body{
+    background-image: url("images/backgroundHome.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 225px;
+}
