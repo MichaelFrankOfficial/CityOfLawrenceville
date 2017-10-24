@@ -9,3 +9,11 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.Aurora{
+    padding-top: 30px;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-bottom: 30px;
+    margin: auto;
+    border-style: 10px solid;
+}
