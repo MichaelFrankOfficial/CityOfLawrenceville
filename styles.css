@@ -9,6 +9,12 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.cakeBackground{
+    background-image: url("images/cakes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
 .Aurora{
     padding-top: 30px;
     padding-left: 350px;
@@ -16,4 +22,22 @@ h1{
     padding-bottom: 30px;
     margin: auto;
     border-style: 10px solid;
+}
+a:link, a:visited{
+    display: block;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: gray;
+    width: 160px;
+    text-align: center;
+    padding: 4px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px white;
+}
+nav{
+    float: top;
+    margin-top: 10px;
+    width: 100%;
+    list-style: none;
 }

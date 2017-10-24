@@ -9,3 +9,21 @@ h1{
     text-align: center;
     margin-top: 225px;
 }
+a:link, a:visited{
+    display: block;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: gray;
+    width: 160px;
+    text-align: center;
+    padding: 4px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px white;
+}
+nav{
+    float: top;
+    margin-top: 10px;
+    width: 100%;
+    list-style: none;
+}
